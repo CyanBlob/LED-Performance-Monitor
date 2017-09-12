@@ -158,7 +158,6 @@ int main(int argc, char *argv[])
 	}
 
 	while (1)
-
 	{
 		memset(buf, 0, 32);
 		get_all(buf);
